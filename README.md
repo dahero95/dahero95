@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Hernández</h1>
 <h3 align="center">Passionate developer from Mexico, specialized in data and student of artificial intelligence.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dahero95&label=Profile%20views&color=0e75b6&style=flat" alt="dahero95" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dahero95&label=Profile%20views&color=0e75b6&style=flat" alt="dahero95" /> </p>
 
 - 🌱 I’m currently learning **Generative artificial intelligence and agent systems**
 
@@ -16,7 +16,7 @@
 </p>
 -->
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
